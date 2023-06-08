@@ -1,0 +1,16 @@
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.csproj.AssemblyReference.cache
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.AssemblyInfoInputs.cache
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.AssemblyInfo.cs
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.csproj.CoreCompileInputs.cache
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\bin\Debug\net5.0\Lista06ATP.exe
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\bin\Debug\net5.0\Lista06ATP.deps.json
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\bin\Debug\net5.0\Lista06ATP.runtimeconfig.json
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\bin\Debug\net5.0\Lista06ATP.runtimeconfig.dev.json
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\bin\Debug\net5.0\Lista06ATP.dll
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\bin\Debug\net5.0\ref\Lista06ATP.dll
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\bin\Debug\net5.0\Lista06ATP.pdb
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.dll
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\ref\Lista06ATP.dll
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.pdb
+C:\Users\1455155\Documents\Lista06ATP\Lista06ATP\obj\Debug\net5.0\Lista06ATP.genruntimeconfig.cache

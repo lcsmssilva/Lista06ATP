@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lista06ATP/1.0.0": {
+        "runtime": {
+          "Lista06ATP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista06ATP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
